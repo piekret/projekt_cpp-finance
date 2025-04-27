@@ -18,12 +18,21 @@
     <ClCompile Include="finance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ledger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ledger.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="transaction.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
